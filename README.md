@@ -3,7 +3,7 @@
 ## Intention:
 This app provided the ability for users to document everything they want and save notes on their browser's local storage.
 
-## How to run the project?
+## How to run this project?
 
 1. Type `npm install` to install any necessary packages and dependencies.
 2. Type `npm start` to start the project on localhost.
