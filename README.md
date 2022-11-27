@@ -1,15 +1,16 @@
 ## React Notes App
 
-#Intention:
+## Intention:
 This app provided the ability for users to document everything they want and save notes on their browser's local storage.
 
-#How to run the project?
+## How to run the project?
 
-1. Type npm install to install any necessary packages and dependencies.
+1. Type `npm install` to install any necessary packages and dependencies.
 2. Type `npm start` to start the project on localhost.
 3. Open the `http://localhost:3000/` in your browser.
 4. Project is running now, well done.
 
 Project Screenshot
-![image](https://user-images.githubusercontent.com/53160804/199908701-24d866fc-75aa-41da-b44a-9ae2bc8460c4.png)
+![image](https://user-images.githubusercontent.com/53160804/204116359-d9668f58-fc67-4f5f-853b-f16113b75d1c.png)
+![image](https://user-images.githubusercontent.com/53160804/204116363-6841e886-7b0c-495d-ac59-81a7e1990bf9.png)
 
