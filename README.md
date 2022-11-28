@@ -10,7 +10,7 @@ This app provided the ability for users to document everything they want and sav
 3. Open the `http://localhost:3000/` in your browser.
 4. Project is running now, well done.
 
-## Project has been deployed via Netlify:
+## Demo
 To visit app, please click the link: https://react-notes-app-oliver-yao.netlify.app/
 
 ## Project Screenshot
