@@ -15,5 +15,4 @@ To visit app, please click the link: https://react-notes-app-oliver-yao.netlify.
 
 ## Project Screenshot
 ![image](https://user-images.githubusercontent.com/53160804/204116359-d9668f58-fc67-4f5f-853b-f16113b75d1c.png)
-![image](https://user-images.githubusercontent.com/53160804/204116363-6841e886-7b0c-495d-ac59-81a7e1990bf9.png)
 
